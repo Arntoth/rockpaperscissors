@@ -1,0 +1,74 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  width: 200px;
+  margin: 0 40px 40px;
+}
+
+body {
+  background-color: #2C3333;
+}
+
+h1 {
+  margin: 20px 30px 60px;
+  font-family: 'Rubik Moonrocks', cursive;;
+  text-shadow: 5px 30px #283030;
+  font-size: 4.5rem;
+  color: #A5C9CA;
+}
+
+h2 {
+  font-size: 3rem;
+  color: #E7F6F2;
+  font-family: 'Freckle Face', cursive;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 2rem;
+  color: #E7F6F2;
+  font-family: 'Freckle Face', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.logo {
+  width: 20%;
+  max-width: 178px;
+}
+
+footer {
+  margin-top: 3%;
+  color: #E7F6F2;
+  text-align: center;
+  font-family: cursive;
+}
+
+.btn {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  color: #E7F6F2;
+  font-size: 35px;
+  background: #395B64;
+  padding: 7px 10px 7px 10px;
+  text-decoration: none;
+  border: none;
+  font-family: 'Freckle Face', cursive;
+  margin: auto 20px auto;
+  width: 180px;
+}
+
+.btn:hover {
+  background: #A5C9CA;
+  text-decoration: none;
+}
