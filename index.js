@@ -39,7 +39,6 @@ function changeImg(number1) { //ez a funkció ad egy véletlen értéket a szám
     spin(2, 250);
     spin(3, 300);
 
-
     setTimeout(function() {
 
       var number2 = Math.floor(Math.random() * 3 + 1);
